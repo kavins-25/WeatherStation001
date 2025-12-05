@@ -1,0 +1,13 @@
+DHT22 / DHT11 (Temp & Humidity)
+
+BMP280 (Pressure & Temp)
+
+BH1750 (Light Intensity)
+
+Rain Sensor (Analog)
+
+Soil Moisture Sensor (Analog)
+
+Wind Speed (Digital Interrupt, Optional)
+
+Anemometer / Rain Gauge placeholders (Optional)
